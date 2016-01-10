@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Jason Crader Gallery]]></title>
+        <description><![CDATA[Jason Crader Gallery]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Sun, 10 Jan 2016 01:51:04 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Ashton]]></title>
+            <description><![CDATA[<article><h1>Ashton</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/b4908d0dbc309923543ef6e433d03438f82fef1f.jpg"></article>]]></description>
+            <link>undefinedashton/index.html</link>
+            <guid isPermaLink="false">93b8b55a-99a6-4922-9c50-51089ecc358c</guid>
+            <pubDate>Sun, 10 Jan 2016 01:50:55 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
