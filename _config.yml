@@ -1,0 +1,28 @@
+name: Jason Crader Gallery
+favicon: null
+layout_spectrum: 0.16526543768122792
+typography_spectrum: 0.9018715489655733
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+  brandStrength: 0.9298801254481077
+  lightness: 0.7770239259116352
+  saturation: 0.8063114599790424
+  rhythmicContrast: 0.8266736357472837
+purpose: []
